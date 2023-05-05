@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="shop_categoryes">
+        <item>men\'s clothing</item>
+        <item>women\'s clothing</item>
+    </string-array>
+</resources>
